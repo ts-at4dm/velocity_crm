@@ -38,9 +38,9 @@ Velocity CRM is a Customer Relationship Management (CRM) system designed to inte
 ## File Structure
 ```
 VelocityCRM/
-│── go/
+│── backend/
 │   ├── main.go             # Go backend entry point
-│── csharp/
+│── frontend/
 │   ├── App.xaml.cs         # Main application logic (C#)
 │   ├── MainWindow.xaml.cs  # UI interactions (C#)
 │── README.md               # Project documentation
